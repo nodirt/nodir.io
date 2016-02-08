@@ -1,4 +1,4 @@
-posts <
+posts: <
     id: "google"
     title: "Job at Google in 6 months recipe"
     date: "2016-01-01"

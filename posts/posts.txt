@@ -1,5 +1,5 @@
 posts {
-    id: "google"
-    date: "2016-01-01"
-    title: "Job at Google in 6 months recipe"
+    id: "test"
+    date: "2016-01"
+    title: "Test post"
 }

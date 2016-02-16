@@ -1,5 +1,0 @@
-posts {
-    id: "test"
-    date: "2016-01"
-    title: "Test post"
-}
